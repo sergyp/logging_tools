@@ -17,7 +17,7 @@ setup(
     author='Sergey Punkoff',
     author_email='svpmailbox@gmail.com',
     url='https://github.com/sergyp/logging_tools',
-    download_url='https://github.com/sergyp/logging_tools/tarball/master'
+    download_url='https://github.com/sergyp/logging_tools/tarball/master',
     description='Simple cover of `logging` package to make configuring easy',
     long_description=long_description,
     classifiers=[
