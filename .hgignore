@@ -1,0 +1,11 @@
+syntax: glob
+*.pyc
+db/*
+*.dll
+*.xml
+build/*
+dist/*
+env/
+.idea
+temp/
+_lib
